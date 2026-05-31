@@ -85,4 +85,4 @@ function logout() {
     window.location.href = 'login.html';
 }
 
-loadFeedbacks();
+loadFeedbacks();

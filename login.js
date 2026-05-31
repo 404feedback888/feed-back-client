@@ -42,4 +42,4 @@ document.addEventListener('DOMContentLoaded', function () {
       statusEl.textContent = 'Không thể kết nối đến máy chủ.';
     }
   });
-});
+});
