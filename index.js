@@ -26,6 +26,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 },
                 body: JSON.stringify(data)
             })
+                /*
                 .then(response => {
                     if (response.ok) {
                         alert('Gửi nhận xét thành công!');
@@ -39,6 +40,7 @@ document.addEventListener('DOMContentLoaded', function () {
                     console.error('Fetch Error:', error);
                     alert('Không thể kết nối đến máy chủ.');
                 });
+                */
         });
     }
-});
+});
